@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wilayas count="69">
+  <wilaya code="1" name="Adrar" name_ar="أدرار" latitude="27.9766155" longitude="-0.2039600" />
+  <wilaya code="2" name="Chlef" name_ar="الشلف" latitude="36.1691245" longitude="1.3539002" />
+  <wilaya code="3" name="Laghouat" name_ar="الأغواط" latitude="33.7873735" longitude="2.8829115" />
+  <wilaya code="4" name="Oum El Bouaghi" name_ar="أم البواقي" latitude="35.8726014" longitude="7.1180248" />
+  <wilaya code="5" name="Batna" name_ar="باتنة" latitude="35.5784266" longitude="6.1083422" />
+  <wilaya code="6" name="Bejaia" name_ar="بجاية" latitude="36.7695969" longitude="5.0085855" />
+  <wilaya code="7" name="Biskra" name_ar="بسكرة" latitude="34.8515041" longitude="5.7246709" />
+  <wilaya code="8" name="Bechar" name_ar="بشار" latitude="31.5965368" longitude="-2.4145248" />
+  <wilaya code="9" name="Blida" name_ar="البليدة" latitude="36.4803023" longitude="2.8009379" />
+  <wilaya code="10" name="Bouira" name_ar="البويرة" latitude="36.2084234" longitude="3.9250490" />
+  <wilaya code="11" name="Tamanrasset" name_ar="تمنراست" latitude="22.2746227" longitude="5.6754684" />
+  <wilaya code="12" name="Tebessa" name_ar="تبسة" latitude="35.4117259" longitude="8.1105450" />
+  <wilaya code="13" name="Tlemcen" name_ar="تلمسان" latitude="34.8959541" longitude="-1.3150979" />
+  <wilaya code="14" name="Tiaret" name_ar="تيارت" latitude="35.3599899" longitude="1.3916159" />
+  <wilaya code="15" name="Tizi Ouzou" name_ar="تيزي وزو" latitude="36.7002068" longitude="4.0759570" />
+  <wilaya code="16" name="Alger" name_ar="الجزائر" latitude="36.7538259" longitude="3.0578410" />
+  <wilaya code="17" name="Djelfa" name_ar="الجلفة" latitude="34.6672467" longitude="3.2993118" />
+  <wilaya code="18" name="Jijel" name_ar="جيجل" latitude="36.7962714" longitude="5.7504845" />
+  <wilaya code="19" name="Setif" name_ar="سطيف" latitude="36.1905173" longitude="5.4202134" />
+  <wilaya code="20" name="Saida" name_ar="سعيدة" latitude="34.8419450" longitude="0.1483583" />
+  <wilaya code="21" name="Skikda" name_ar="سكيكدة" latitude="36.8777912" longitude="6.9357204" />
+  <wilaya code="22" name="Sidi Bel Abbes" name_ar="سيدي بلعباس" latitude="35.2063340" longitude="-0.6301368" />
+  <wilaya code="23" name="Annaba" name_ar="عنابة" latitude="36.9184345" longitude="7.7452755" />
+  <wilaya code="24" name="Guelma" name_ar="قالمة" latitude="36.4569088" longitude="7.4334312" />
+  <wilaya code="25" name="Constantine" name_ar="قسنطينة" latitude="36.3194750" longitude="6.7370571" />
+  <wilaya code="26" name="Medea" name_ar="المدية" latitude="36.2838408" longitude="2.7728462" />
+  <wilaya code="27" name="Mostaganem" name_ar="مستغانم" latitude="35.9751841" longitude="0.1149273" />
+  <wilaya code="28" name="M'Sila" name_ar="المسيلة" latitude="35.7211476" longitude="4.5187283" />
+  <wilaya code="29" name="Mascara" name_ar="معسكر" latitude="35.3829980" longitude="0.1542592" />
+  <wilaya code="30" name="Ouargla" name_ar="ورقلة" latitude="31.8974000" longitude="5.3421000" />
+  <wilaya code="31" name="Oran" name_ar="وهران" latitude="35.7066928" longitude="-0.6405861" />
+  <wilaya code="32" name="El Bayadh" name_ar="البيض" latitude="33.6146000" longitude="1.0190000" />
+  <wilaya code="33" name="Illizi" name_ar="إليزي" latitude="26.5065999" longitude="8.4805870" />
+  <wilaya code="34" name="Bordj Bou Arreridj" name_ar="برج بوعريريج" latitude="36.0686488" longitude="4.7691823" />
+  <wilaya code="35" name="Boumerdes" name_ar="بومرداس" latitude="36.7564181" longitude="3.4917212" />
+  <wilaya code="36" name="El Tarf" name_ar="الطارف" latitude="36.7534258" longitude="8.2984543" />
+  <wilaya code="37" name="Tindouf" name_ar="تندوف" latitude="27.5972000" longitude="-8.1491000" />
+  <wilaya code="38" name="Tissemsilt" name_ar="تسمسيلت" latitude="35.6021906" longitude="1.8021870" />
+  <wilaya code="39" name="El Oued" name_ar="الوادي" latitude="33.3714492" longitude="6.8573436" />
+  <wilaya code="40" name="Khenchela" name_ar="خنشلة" latitude="35.4263293" longitude="7.1414137" />
+  <wilaya code="41" name="Souk Ahras" name_ar="سوق أهراس" latitude="36.2778490" longitude="7.9592299" />
+  <wilaya code="42" name="Tipaza" name_ar="تيبازة" latitude="36.5980966" longitude="2.4085379" />
+  <wilaya code="43" name="Mila" name_ar="ميلة" latitude="36.4514882" longitude="6.2487316" />
+  <wilaya code="44" name="Ain Defla" name_ar="عين الدفلى" latitude="36.1283915" longitude="2.1772514" />
+  <wilaya code="45" name="Naama" name_ar="النعامة" latitude="33.1950000" longitude="-0.3131000" />
+  <wilaya code="46" name="Ain Temouchent" name_ar="عين تموشنت" latitude="35.4040440" longitude="-1.0580975" />
+  <wilaya code="47" name="Ghardaia" name_ar="غرداية" latitude="32.5891743" longitude="3.7455655" />
+  <wilaya code="48" name="Relizane" name_ar="غليزان" latitude="35.6696000" longitude="0.5493000" />
+  <wilaya code="49" name="Timimoun" name_ar="تيميمون" latitude="29.2583330" longitude="0.2305560" />
+  <wilaya code="50" name="Bordj Badji Mokhtar" name_ar="برج باجي مختار" latitude="21.3277780" longitude="0.9555560" />
+  <wilaya code="51" name="Ouled Djellal" name_ar="أولاد جلال" latitude="34.4333330" longitude="5.0666670" />
+  <wilaya code="52" name="Beni Abbes" name_ar="بني عباس" latitude="30.1333330" longitude="-2.1666670" />
+  <wilaya code="53" name="In Salah" name_ar="عين صالح" latitude="27.1972220" longitude="2.4833330" />
+  <wilaya code="54" name="In Guezzam" name_ar="عين قزام" latitude="19.5722220" longitude="5.7694440" />
+  <wilaya code="55" name="Touggourt" name_ar="تقرت" latitude="33.1083330" longitude="6.0638890" />
+  <wilaya code="56" name="Djanet" name_ar="جانت" latitude="24.5541670" longitude="9.4847220" />
+  <wilaya code="57" name="El M'Ghair" name_ar="المغير" latitude="33.9472220" longitude="5.9222220" />
+  <wilaya code="58" name="El Meniaa" name_ar="المنيعة" latitude="30.5791670" longitude="2.8791670" />
+  <wilaya code="59" name="Aflou" name_ar="أفلو" latitude="34.1167000" longitude="2.1000000" />
+  <wilaya code="60" name="Barika" name_ar="بريكة" latitude="35.3833000" longitude="5.3667000" />
+  <wilaya code="61" name="El Kantara" name_ar="القنطرة" latitude="35.2167000" longitude="5.7000000" />
+  <wilaya code="62" name="Bir El Ater" name_ar="بئر العاتر" latitude="34.7500000" longitude="8.0500000" />
+  <wilaya code="63" name="El Aricha" name_ar="العريشة" latitude="34.2500000" longitude="-1.3500000" />
+  <wilaya code="64" name="Ksar Chellala" name_ar="قصر الشلالة" latitude="35.1667000" longitude="2.3167000" />
+  <wilaya code="65" name="Ain Oussara" name_ar="عين وسارة" latitude="35.4500000" longitude="2.9000000" />
+  <wilaya code="66" name="Messaad" name_ar="مسعد" latitude="34.1667000" longitude="3.5000000" />
+  <wilaya code="67" name="Ksar El Boukhari" name_ar="قصر البخاري" latitude="35.8833000" longitude="2.7500000" />
+  <wilaya code="68" name="Bou Saada" name_ar="بوسعادة" latitude="35.2167000" longitude="4.1833000" />
+  <wilaya code="69" name="El Abiodh Sidi Cheikh" name_ar="الأبيض سيدي الشيخ" latitude="32.9000000" longitude="0.5333000" />
+</wilayas>
