@@ -63,6 +63,16 @@ pwsh tools/sql.ps1
 
 Reads `data/*.json` and rewrites `sql/`.
 
+## Commits
+
+Use plain descriptive messages. The dataset changes only when the law changes, so the pattern is:
+
+```
+Update wilayas/communes for loi 26-XX
+```
+
+`sql/` is regenerated via `tools/sql.ps1` and committed alongside the data it's derived from.
+
 ## Licence
 
 MIT - see [LICENSE](LICENSE).
