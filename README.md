@@ -16,7 +16,7 @@ JSON, CSV, XML, GeoJSON, and ready-to-run SQL for MySQL, PostgreSQL and SQL Serv
 data/wilayas.json    data/wilayas.csv    data/wilayas.geojson    data/wilayas.xml       → 69 wilayas / ولايات
 data/communes.json   data/communes.csv   data/communes.geojson   data/communes.xml   → 1541 communes / بلديات
 sql/mysql.sql        sql/postgres.sql    sql/sqlserver.sql
-tools/sql.py           → regenerates sql/
+tools/gen_sql.py           → regenerates sql/
 ```
 
 GeoJSON follows RFC 7946: `Point` geometries, coordinates in `[longitude, latitude]` order, WGS 84.
@@ -58,7 +58,7 @@ Legal reference: [JO n° 25 du 5 avril 2026](https://www.joradp.dz/FTP/jo-franca
 ## Rebuilding
 
 ```bash
-python tools/sql.py
+python tools/gen_sql.py
 ```
 
 Reads `data/*.json` and rewrites `sql/`.
@@ -71,7 +71,7 @@ Use plain descriptive messages. The dataset changes only when the law changes, s
 Update wilayas/communes for loi 26-XX
 ```
 
-`sql/` is regenerated via `tools/sql.py` and committed alongside the data it's derived from.
+`sql/` is regenerated via `tools/gen_sql.py` and committed alongside the data it's derived from.
 
 ## Licence
 
