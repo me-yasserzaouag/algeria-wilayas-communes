@@ -1,5 +1,11 @@
 # Algeria - 69 Wilayas / 1541 Communes
 
+<p align="center">
+  <a href="https://github.com/me-yasserzaouag/algeria-wilayas-communes/blob/main/LICENSE">
+    <img alt="MIT License" src="https://img.shields.io/github/license/me-yasserzaouag/algeria-wilayas-communes" />
+  </a>
+</p>
+
 Algérie · الجزائر - the **69 wilayas** (ولايات) and **1541 communes** (بلديات) of Algeria, with post codes, daïras (دوائر), Latin and Arabic names, and coordinates.
 
 Division fixed by **loi n° 26-06 du 4 avril 2026**, published in the **Journal Officiel n° 25 du 5 avril 2026**:
@@ -72,7 +78,3 @@ Update wilayas/communes for loi 26-XX
 ```
 
 `sql/` is regenerated via `tools/gen_sql.py` and committed alongside the data it's derived from.
-
-## Licence
-
-MIT - see [LICENSE](LICENSE).
